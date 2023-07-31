@@ -62,7 +62,7 @@ android {
         }
     }
 
-    flavorDimensions "deploy"
+    flavorDimensions ["deploy"]
 
     productFlavors { 
         dev {
